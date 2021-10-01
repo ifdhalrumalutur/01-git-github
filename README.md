@@ -12,9 +12,9 @@ Langkah - Langkah Praktik GitHub
     1. Mengelola Repo Sendiri di Account Sendiri
         Langkah-langkah
         Setiap orang yang telah mempunyai account di GitHub bisa membuat repo. Secara umum, langkah-langkahnya adalah sebagai berikut:
-
             1. Buat repo kosong di GitHub, bisa public maupun private.
             2. Clone repo kosong tersebut di komputer lokal
             3. Perintah berikutnya terkait dengan perubahan repo serta sinkronisasi antara GitHub dengan lokal.
+            
     2. Mengelola Repo Sendiri di Organisasi
         Repo yang dibuat bisa diletakkan pada account kita maupun berada pada suatu organisasi. Organisasi bisa kita buat sendiri maupun kita dimasukkan menjadi anggota organisasi. Pada dasarnya, bagian ini sama dengan bagian sebelumnya, hanya saja, pada saat membuat repo Owner dari repo
